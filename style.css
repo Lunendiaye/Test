@@ -1,0 +1,33 @@
+nav ul li {
+    color: blue;
+    display: inline;
+    padding: 30px;
+    font-weight: 600;
+}
+
+img {
+    float: right;
+    border-top: 150px;
+}
+
+nav {
+    padding-bottom: 90px;
+    padding-top: 30px;
+}
+
+main p {
+    font-weight: 700;
+}
+
+span {
+    color: blue;
+}
+
+button {
+    border-radius: 30px;
+}
+
+main {
+    padding-left: 40px;
+    padding-top: 120px;
+}
